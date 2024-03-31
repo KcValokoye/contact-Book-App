@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "oc0HhMxgahqDot5W3JqPLQlqk6emaLv+OGlskoo912nN/jtho4QvUQD/wNGg3VlreZLW8FiCbMvn6R3a2EejQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZBOOK 14U G6\\source\\repos\\SQ20-Week 9-10-ContactBook\\ContactBook.Auth\\ContactBook.Auth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.2\\microsoft.aspnetcore.authentication.jwtbearer.6.0.2.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.10.0\\microsoft.identitymodel.jsonwebtokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.identitymodel.logging\\6.10.0\\microsoft.identitymodel.logging.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.10.0\\microsoft.identitymodel.protocols.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.10.0\\microsoft.identitymodel.protocols.openidconnect.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.10.0\\microsoft.identitymodel.tokens.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.10.0\\system.identitymodel.tokens.jwt.6.10.0.nupkg.sha512",
+    "C:\\Users\\ZBOOK 14U G6\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
